@@ -1,0 +1,19 @@
+  body {
+  background-color: powderblue;  
+  }
+
+  h1{
+  color: rgb(79, 69, 87);
+  }
+  h3{
+ color:rgb(79, 69, 87) ;
+  }
+  hr {
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    height: 2px;
+    width: 5%;
+  }
